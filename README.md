@@ -14,11 +14,11 @@ Here's some information about me👀
 
 🎂 25 years old!
 
-👨🏻‍💻 Software / Platform Engineer at Goldman Sachs Technology
+👨🏻‍💻 Software Engineer at Goldman Sachs
 
-📊 Working in Market Data Engineering.
+📊 Market Data Engineering
 
-☁️ Interested in software engineering, DevOps, and security.
+☁️ Interested in DevSecOps and how teams collaborate across an organization to build a culture of secure, sustainable engineering that evolves with the business.
 
 ### 🔠 Programming Languages I've worked with
 
