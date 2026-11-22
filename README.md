@@ -14,11 +14,11 @@ Here's some information about me👀
 
 🎂 25 years old!
 
-🎓 Second-year Master's Student at Yokohama National University
+👨🏻‍💻 Software Engineer at Goldman Sachs
 
-👨🏻‍💻 Majoring in Information Technology.
+📊 Market Data Engineering
 
-🧪 A member of Yoshioka Lab.
+☁️ Interested in DevSecOps and how teams collaborate across an organization to build a culture of secure, sustainable engineering that evolves with the business.
 
 ### 🔠 Programming Languages I've worked with
 
